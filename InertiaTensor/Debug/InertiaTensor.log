@@ -1,0 +1,153 @@
+﻿  InertiaTensor.cpp
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(32,26): error C4596: '==': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(33,26): error C4596: '!=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(34,26): error C4596: '<=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(35,26): error C4596: '>=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(36,26): error C4596: '>': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(37,26): error C4596: '<': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(64,26): error C4596: '==': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(65,26): error C4596: '!=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(66,26): error C4596: '<=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(67,26): error C4596: '>=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(68,26): error C4596: '>': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(69,26): error C4596: '<': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(181,13): error C2039: 'fabs': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\string(24): message : see declaration of 'std'
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(319,13): error C2039: 'fabs': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\string(24): message : see declaration of 'std'
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(145,18): error C2143: syntax error: missing ';' before '*'
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(145,10): error C7525: inline variables require at least '/std:c++17'
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(145,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(145,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(147,9): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(147,19): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(147,29): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(148,9): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(148,19): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(148,29): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(149,9): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(149,19): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(149,29): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(151,1): error C2440: 'return': cannot convert from 'const MATH::Matrix4' to 'int'
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(151,11): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(219,15): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(219,35): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(219,55): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(220,15): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(220,35): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(220,55): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(221,15): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(221,35): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(221,55): warning C4552: '+': result of expression not used
+  Main.cpp
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(32,26): error C4596: '==': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(33,26): error C4596: '!=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(34,26): error C4596: '<=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(35,26): error C4596: '>=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(36,26): error C4596: '>': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(37,26): error C4596: '<': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(64,26): error C4596: '==': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(65,26): error C4596: '!=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(66,26): error C4596: '<=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(67,26): error C4596: '>=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(68,26): error C4596: '>': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(69,26): error C4596: '<': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(181,13): error C2039: 'fabs': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\string(24): message : see declaration of 'std'
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(319,13): error C2039: 'fabs': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\string(24): message : see declaration of 'std'
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(145,18): error C2143: syntax error: missing ';' before '*'
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(145,10): error C7525: inline variables require at least '/std:c++17'
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(145,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(145,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(147,9): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(147,19): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(147,29): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(148,9): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(148,19): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(148,29): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(149,9): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(149,19): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(149,29): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(151,1): error C2440: 'return': cannot convert from 'const MATH::Matrix4' to 'int'
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(151,11): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(219,15): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(219,35): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(219,55): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(220,15): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(220,35): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(220,55): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(221,15): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(221,35): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(221,55): warning C4552: '+': result of expression not used
+  MMath.cpp
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(32,26): error C4596: '==': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(33,26): error C4596: '!=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(34,26): error C4596: '<=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(35,26): error C4596: '>=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(36,26): error C4596: '>': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(37,26): error C4596: '<': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(64,26): error C4596: '==': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(65,26): error C4596: '!=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(66,26): error C4596: '<=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(67,26): error C4596: '>=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(68,26): error C4596: '>': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(69,26): error C4596: '<': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(181,13): error C2039: 'fabs': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\string(24): message : see declaration of 'std'
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(319,13): error C2039: 'fabs': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\string(24): message : see declaration of 'std'
+H:\CPP Projects\InertiaTensor\InertiaTensor\VMath.h(45,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+H:\CPP Projects\InertiaTensor\InertiaTensor\VMath.h(50,18): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+H:\CPP Projects\InertiaTensor\InertiaTensor\VMath.h(50,57): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+H:\CPP Projects\InertiaTensor\InertiaTensor\VMath.h(50,97): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(145,18): error C2143: syntax error: missing ';' before '*'
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(145,10): error C7525: inline variables require at least '/std:c++17'
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(145,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(145,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(147,9): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(147,19): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(147,29): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(148,9): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(148,19): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(148,29): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(149,9): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(149,19): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(149,29): warning C4552: '*': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(151,1): error C2440: 'return': cannot convert from 'const MATH::Matrix4' to 'int'
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(151,11): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(219,15): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(219,35): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(219,55): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(220,15): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(220,35): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(220,55): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(221,15): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(221,35): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\Matrix.h(221,55): warning C4552: '+': result of expression not used
+H:\CPP Projects\InertiaTensor\InertiaTensor\MMath.cpp(20,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+H:\CPP Projects\InertiaTensor\InertiaTensor\MMath.cpp(21,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+H:\CPP Projects\InertiaTensor\InertiaTensor\MMath.cpp(51,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+H:\CPP Projects\InertiaTensor\InertiaTensor\MMath.cpp(141,18): error C2676: binary '*': 'MATH::Matrix3' does not define this operator or a conversion to a type acceptable to the predefined operator
+  VMath.cpp
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(32,26): error C4596: '==': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(33,26): error C4596: '!=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(34,26): error C4596: '<=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(35,26): error C4596: '>=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(36,26): error C4596: '>': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(37,26): error C4596: '<': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(64,26): error C4596: '==': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(65,26): error C4596: '!=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(66,26): error C4596: '<=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(67,26): error C4596: '>=': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(68,26): error C4596: '>': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(69,26): error C4596: '<': illegal qualified name in member declaration
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(181,13): error C2039: 'fabs': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\string(24): message : see declaration of 'std'
+H:\CPP Projects\InertiaTensor\InertiaTensor\Vector.h(319,13): error C2039: 'fabs': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\string(24): message : see declaration of 'std'
+H:\CPP Projects\InertiaTensor\InertiaTensor\VMath.h(45,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+H:\CPP Projects\InertiaTensor\InertiaTensor\VMath.h(50,18): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+H:\CPP Projects\InertiaTensor\InertiaTensor\VMath.h(50,57): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+H:\CPP Projects\InertiaTensor\InertiaTensor\VMath.h(50,97): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Generating Code...
